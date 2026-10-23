@@ -1,8 +1,8 @@
 
-const Home = ({num}) => {
+const Home = ({minus}) => {
     return (
         <div>
-            Raima following {num} 
+            Negative {minus} 
         </div>
     );
 };
